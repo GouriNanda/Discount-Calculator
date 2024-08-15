@@ -65,7 +65,7 @@ function DiscountCalculator() {
       <button className='rounded' onClick={resetFields}>Reset</button>
       
       {discountedPrice !== null && (
-        <div style={{ marginTop: '20px',border:'1px solid black',borderWidth:'5px',margin:'10px',maxWidth:'500px', borderRadius:'10px',marginLeft:'450px',marginLeft:'450px',}}>
+        <div className='div4' style={{ marginTop: '20px'}}>
           <p className='div2'>Discounted Price:  ₹ {discountedPrice}</p>
           <p className='div2'>Saved Price:  ₹ {savedPrice}</p>
         </div>

@@ -45,6 +45,15 @@ input {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.div4{
+  border: 1px solid black;
+  border-width: 5px;
+  margin: 10px;
+  max-width: 500px;
+  border-radius: 10px;
+  margin-left: 450px;
+}
+
 button {
   padding: 10px 20px;
   border: none;

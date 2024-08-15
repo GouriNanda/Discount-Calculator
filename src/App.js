@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div>
-      <img src='https://media2.giphy.com/media/Pm9UQQBQbtLe1scjOQ/source.gif'></img>
+      <img src='https://media2.giphy.com/media/Pm9UQQBQbtLe1scjOQ/source.gif' alt=''></img>
 
       </div>
     <Discount/>
